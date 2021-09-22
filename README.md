@@ -5,11 +5,11 @@
 <a href="#"><img title="Karnan" src="https://img.shields.io/badge/Karnan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Sachu-Albin/Karnan?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/KarnanSer"><img title="Author" src="https://img.shields.io/badge/Sachu-Albin/Karnan?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://youtube.com/c/ICHUTECH">TOXIDE-SER</a> to make it public
+Project created by <a href="https://youtube.com/c/ICHUTECH">KarnanSer</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">TOXIDE-SER</a> to ma
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/KarnanSer/KARNAN">
+    <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/KARNAN?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/KarnanSer/followers"><img title="Followers" src="https://img.shields.io/github/followers/KarnanSer?color=blue&style=flat-square"></a>
+<a href="https://github.com/KarnanSer/KARNAN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KarnanSer/KARNAN?color=blue&style=flat-square"></a>
+<a href="https://github.com/KarnanSer/KARNAN/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KarnanSer/KARNAN?color=blue&style=flat-square"></a>
+<a href="https://github.com/KarnanSer/KARNAN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KarnanSer/KARNAN?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarnanSer&repo=PublicBot&theme=nightowl)](https://github.com/KarnanSer/PublicBot)
   </div>
     
 ## Setup
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/TOXIDE-SER/Anjali
-$ cd Anjali
+$ git clone https://github.com/KarnanSer/KARNAN
+$ cd KARNAN
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/TOXIDE-SER/Anjali
-$ cd Anjali
+$ git clone https://github.com/KarnanSer/KARNAN
+$ cd KARNAN
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -80,7 +80,7 @@ $ node qr.js
 $ node bot.js
 ```
 
-## BOT CODED AND PUBLISHED BY TOXIDE-SER ©2021
+## BOT CODED AND PUBLISHED BY KarnanSer ©2021
 
 * [ KILLADY TOXIDE FFC ](http://wa.me/919048329892) 
 
@@ -102,7 +102,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/Hisham-Muhammed/Sophia).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
+  [![ameerkallumthodi](https://github.com/KARNAN-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/Sachu-Albin/Karnan).png?size=100)](karnan.jpg) 
 ----|----|----
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://i.imgur.com/KbE2Nce.jpeg)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
